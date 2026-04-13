@@ -4,6 +4,16 @@
 n equations, n unknows
 
 $$
+\begin{cases}
+x + 2y + 3z = 14 \\
+4x + 5y + 6z = 32 \\
+7x + 8y + 9z = 50
+\end{cases}
+\tag{1}
+$$
+
+
+$$
 \begin{bmatrix}
  1 & 2 & 3 \\
  4 & 5 & 6 \\
