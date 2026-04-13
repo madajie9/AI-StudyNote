@@ -11,7 +11,11 @@ $$
 \end{cases}
 $$
 
-$\Downarrow$
+$$
+\\[10pt]
+ \hspace{1em}\Downarrow\hspace{1em}
+ \\[10pt]
+$$
 
  
 $$
