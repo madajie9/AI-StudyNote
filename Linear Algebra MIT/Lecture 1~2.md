@@ -11,9 +11,8 @@ $$
 \end{cases}
 $$
 
-\\[15pt]
  \Downarrow
- \\[15pt]
+
  
 $$
 \begin{bmatrix}
