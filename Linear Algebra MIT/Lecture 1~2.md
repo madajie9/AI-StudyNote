@@ -1,7 +1,6 @@
 # Lecture 1 Linear Combination
 
-1. Start from solving equations
-n equations, n unknows
+1. Start From Solving Equations: n equations, n unknows
 
 $$
 \begin{cases}
