@@ -4,11 +4,11 @@
 n equations, n unknows
 
 $$
-\begin{aligned}
+\begin{cases}
  x + 2y + 3z = 14 \tag{1} \\
  4x + 5y + 6z = 32 \\
  7x + 8y + 9z = 50
-\end{aligned}
+\end{cases}
 $$
 
 
