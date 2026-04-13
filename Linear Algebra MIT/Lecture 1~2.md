@@ -11,7 +11,7 @@ $$
 \end{cases}
 $$
 
- \Downarrow
+$\Downarrow$
 
  
 $$
@@ -31,38 +31,7 @@ $$
  32 \\
  50
 \end{bmatrix}
-\tag{1}
-$$
-
-$$
-\begin{cases}
-x + 2y + 3z = 14 \\
-4x + 5y + 6z = 32 \\
-7x + 8y + 9z = 50
-\end{cases}
-\tag{1}
-\]
-\[
-\Downarrow
-\]
-\[
-\begin{bmatrix}
-1 & 2 & 3 \\
-4 & 5 & 6 \\
-7 & 8 & 9
-\end{bmatrix}
-\begin{bmatrix}
-1 \\
-2 \\
-3
-\end{bmatrix}
-=
-\begin{bmatrix}
-14 \\
-32 \\
-50
-\end{bmatrix}
-\tag{1}
+\tag{2}
 $$
 
 3. Linear Combination
