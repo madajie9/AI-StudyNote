@@ -1,6 +1,6 @@
 # Lecture 1 Linear Combination
 
-1. Start From Solving Equations: n equations, n unknows
+1. Start from solving equations: n equations, n unknows
 
 $$
 \begin{cases}
@@ -44,11 +44,11 @@ $$
  
 $A\mathbf{x} = \mathbf{b}\tag{3}$
 
-3. Linear Combination
+3. Linear combination
 
-	1. $Ax$ : linear combination of columns of  A
+	1. $A\mathbf{x}$ : linear combination of columns of  A
 
-   	2. $x^TA$: linear combination of rows of A 
+   	2. $\mathbf{x^T}A$: linear combination of rows of A 
 
 # Lecture 2 Elimination
 
