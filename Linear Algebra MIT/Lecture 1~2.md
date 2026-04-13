@@ -12,7 +12,7 @@ $$
 $$
 
 $$
-\\[10pt]
+\\[20pt]
  \hspace{1em}\Downarrow\hspace{1em}
  \\[10pt]
 $$
