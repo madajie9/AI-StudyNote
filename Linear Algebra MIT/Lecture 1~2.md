@@ -46,9 +46,9 @@ $A\mathbf{x} = \mathbf{b}\tag{3}$
 
 3. Linear combination
 
-	1. $A\mathbf{x}$ : linear combination of columns of  A
+	1. $A\mathbf{x}$ : linear combination of _columns_ of  A
 
-   	2. $\mathbf{x^T}A$: linear combination of rows of A 
+   	2. $\mathbf{x^T}A$: linear combination of _rows_ of A 
 
 # Lecture 2 Elimination
 
