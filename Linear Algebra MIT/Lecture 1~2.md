@@ -9,11 +9,11 @@ $$
  4x + 5y + 6z = 32 \\
  7x + 8y + 9z = 50
 \end{cases}
-$$
 
+\\[15pt]
+ \Downarrow
+ \\[15pt]
 
-
-$$
 \begin{bmatrix}
  1 & 2 & 3 \\
  4 & 5 & 6 \\
