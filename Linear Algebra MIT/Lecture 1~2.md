@@ -42,7 +42,7 @@ $$
  \\[10pt]
 $$
  
-$Ax=b\tag{3}$
+$A\mathbf{x} = \mathbf{b}\tag{3}$
 
 3. Linear Combination
 
