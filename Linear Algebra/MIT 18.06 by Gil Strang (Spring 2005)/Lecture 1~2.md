@@ -3,7 +3,26 @@
 1. $Ax=b$
 n equations, n unknows
 
-2. Linear Combination
+$$
+\begin{bmatrix}
+1 & 2 & 3 \\
+4 & 5 & 6 \\
+7 & 8 & 9
+\end{bmatrix}
+\begin{bmatrix}
+1 \\
+2 \\
+3
+\end{bmatrix}
+=
+\begin{bmatrix}
+14 \\
+32 \\
+50
+\end{bmatrix}
+$$
+
+3. Linear Combination
 
 	1. $Ax$ : linear combination of columns of  A
 
