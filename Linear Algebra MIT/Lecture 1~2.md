@@ -14,7 +14,7 @@ $$
  2 \\
  3
 \end{bmatrix}
-\=
+=
 \begin{bmatrix}
  14 \\
  32 \\
