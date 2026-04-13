@@ -1,6 +1,6 @@
 # Lecture 1 Linear Combination
 
-1. $Ax=b$
+1. Start from solving equations
 n equations, n unknows
 
 $$
@@ -16,7 +16,6 @@ $$
  \hspace{1em}\Downarrow\hspace{1em}
  \\[10pt]
 $$
-
  
 $$
 \begin{bmatrix}
@@ -37,6 +36,14 @@ $$
 \end{bmatrix}
 \tag{2}
 $$
+
+$$
+\\[10pt]
+ \hspace{1em}\Downarrow\hspace{1em}
+ \\[10pt]
+$$
+ 
+$Ax=b\tag{3}$
 
 3. Linear Combination
 
