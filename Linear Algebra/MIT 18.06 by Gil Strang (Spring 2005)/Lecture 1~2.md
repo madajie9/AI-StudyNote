@@ -5,22 +5,23 @@ n equations, n unknows
 
 $$
 \begin{bmatrix}
-1 & 2 & 3 \\
-4 & 5 & 6 \\
-7 & 8 & 9
+ 1 & 2 & 3 \\
+ 4 & 5 & 6 \\
+ 7 & 8 & 9
 \end{bmatrix}
 \begin{bmatrix}
-1 \\
-2 \\
-3
+ 1 \\
+ 2 \\
+ 3
 \end{bmatrix}
-=
+\=
 \begin{bmatrix}
-14 \\
-32 \\
-50
+ 14 \\
+ 32 \\
+ 50
 \end{bmatrix}
 $$
+
 
 3. Linear Combination
 
