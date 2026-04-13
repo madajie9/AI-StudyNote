@@ -14,7 +14,7 @@ $$
 $$
 \\[10pt]
  \hspace{1em}\Downarrow\hspace{1em}
- \\[20pt]
+ \\[10pt]
 $$
  
 $$
