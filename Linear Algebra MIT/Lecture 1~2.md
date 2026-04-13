@@ -6,7 +6,7 @@ $$
 \begin{cases}
  \phantom{1}x + 2y + 3z = 14 \tag{1} \\
  4x + 5y + 6z = 32 \\
- \phantom{11111} 8y + 9z = 50
+ \phantom{1111} 8y + 9z = 50
 \end{cases}
 $$
 
