@@ -4,7 +4,11 @@
 
 $\begin{cases}\phantom{1}x + 2y + 3z = 14 \tag{1}\\4x + 5y + 6z = 32\\\phantom{x+1} 8y + 9z = 50\end{cases}$
 
-$\\[10pt]\hspace{1em}\Downarrow\hspace{1em}\\[10pt]$
+$$
+\\[10pt]
+\hspace{1em}\Downarrow\hspace{1em}
+\\[10pt]
+$$
  
 $$
 \begin{bmatrix}
