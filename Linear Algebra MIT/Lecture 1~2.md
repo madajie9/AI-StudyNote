@@ -1,4 +1,4 @@
-# Lecture 1 Linear Combination
+# Lecture 1 Solving Equations and Linear Combination
 
 1. Solving equations: n equations, n unknows
 
