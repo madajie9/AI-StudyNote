@@ -2,13 +2,7 @@
 
 1. Solving equations: n equations, n unknows
 
-$$
-\begin{cases}
- \phantom{1}x + 2y + 3z = 14 \tag{1} \\
- 4x + 5y + 6z = 32 \\
- \phantom{x+1} 8y + 9z = 50
-\end{cases}
-$$
+$\begin{cases}\phantom{1}x + 2y + 3z = 14 \tag{1}\\4x + 5y + 6z = 32\\\phantom{x+1} 8y + 9z = 50\end{cases}$
 
 $$
 \\[10pt]
