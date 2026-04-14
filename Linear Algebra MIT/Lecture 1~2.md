@@ -54,7 +54,7 @@ $A\mathbf{x} = \mathbf{b}\tag{3}$
   
 3. See solving equations from the perspective of linear combination
 
-   Solving the system of equations ax=b means finding a linear combination of column vectors of a that is equal to b
+   Solving equations $A\mathbf{x}=\mathbf{b}$ means finding one or more linear combinations of column vectors of $A$ that is equal to $\mathbf{b}$.
 
 
 # Lecture 2 Eliminacombination}
