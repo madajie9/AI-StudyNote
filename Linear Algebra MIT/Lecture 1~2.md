@@ -50,7 +50,7 @@ $A\mathbf{x} = \mathbf{b}\tag{3}$
   $\begin{bmatrix}1 & 2 & 3 \\4 & 5 & 6 \\0 & 8 & 9\end{bmatrix}\begin{bmatrix}x\\y\\z\end{bmatrix}=x\begin{bmatrix}1\\4\\0\end{bmatrix}+y\begin{bmatrix}2\\5\\8\end{bmatrix}+z\begin{bmatrix}3\\6\\9\end{bmatrix}$
   
     2. $\mathbf{x^T}A$: linear combination of _rows_ of A
-  $\begin{bmatrix}x & y & z\end{bmatrix}
+  $\begin{bmatrix}x & y & z\end{bmatrix}$
 
 # Lecture 2 Elimination
 
