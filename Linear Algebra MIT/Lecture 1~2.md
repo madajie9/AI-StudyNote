@@ -47,9 +47,17 @@ $A\mathbf{x} = \mathbf{b}\tag{3}$
 2. Linear combination: Another way to view the multiplication of matrices and vectors
 
 	- $A\mathbf{x}$ : linear combination of _columns_ of  A
+
+  $$
+\begin{bmatrix}
+ 1 & 2 & 3 \\
+ 4 & 5 & 6 \\
+ 0 & 8 & 9
+\end{bmatrix}
+$$
   $\begin{bmatrix}1 & 2 & 3 \\4 & 5 & 6 \\0 & 8 & 9\end{bmatrix}\begin{bmatrix}x\\y\\z\end{bmatrix}=x\begin{bmatrix}1\\4\\0\end{bmatrix}+y\begin{bmatrix}2\\5\\8\end{bmatrix}+z\begin{bmatrix}3\\6\\9\end{bmatrix}$
   
-    2. $\mathbf{x^T}A$: linear combination of _rows_ of A
+    - $\mathbf{x^T}A$: linear combination of _rows_ of A
   $\begin{bmatrix}x & y & z\end{bmatrix}\begin{bmatrix}1 & 2 & 3 \\4 & 5 & 6 \\0 & 8 & 9\end{bmatrix}=x\begin{bmatrix}1 & 2 & 3\end{bmatrix}+y\begin{bmatrix}4 & 5 & 6\end{bmatrix}+z\begin{bmatrix}0 & 8 & 9\end{bmatrix}$
   
 3. See solving equations from the perspective of linear combination
