@@ -54,9 +54,11 @@ $A\mathbf{x} = \mathbf{b}\tag{3}$
   
 3. See solving equations from the perspective of linear combination
 
+   Solving the system of equations ax=b means finding a linear combination of column vectors of a that is equal to b
+
 
 # Lecture 2 Eliminacombination}
-(E_{21})A=(E_{32}E_{21})A=U$
+$(E_{21})A=(E_{32}E_{21})A=U$
 
 
 
