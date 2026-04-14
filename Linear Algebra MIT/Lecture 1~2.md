@@ -57,7 +57,7 @@ $$
    - Can I solve $A\mathbf{x}=\mathbf{b}$ for every $\mathbf{b}$? $\Rightarrow$ Do the linear combinations of the columns of $A$ fill 3-D space? $\Rightarrow$ Singular? Invertible?
 
 
-# Lecture 2 Elimination and Matrices Operation
+# Lecture 2 Gauss Elimination and Matrices Operation
 1. Elimination: privot (2,1), (3,2)
    
 $$
