@@ -56,7 +56,8 @@ $$
 \end{bmatrix}
 $$
 
-   	2. $\mathbf{x^T}A$: linear combination of _rows_ of A 
+   	
+  2. $\mathbf{x^T}A$: linear combination of _rows_ of A 
 
 # Lecture 2 Elimination
 
