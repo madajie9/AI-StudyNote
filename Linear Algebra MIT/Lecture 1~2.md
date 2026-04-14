@@ -44,7 +44,7 @@ $$
  
 $A\mathbf{x} = \mathbf{b}\tag{3}$
 
-2. Linear combination
+2. Linear combination: 
 
 	1. $A\mathbf{x}$ : linear combination of _columns_ of  A
 
