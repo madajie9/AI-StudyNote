@@ -226,5 +226,76 @@ b & d
 * Columns of $A$ are vectors which have different directions.
 
 > How could you understand of solving $A^{-1}$?
-* $A \times columns of A^{-1} = column j of I$
+* $A \times$ columns of $A^{-1} =$ column j of $I$ $\Rightarrow$ Gauss Elimination, but solve >1 equations at once $\Rightarrow$ Gauss-Jordon Elimination
+
+```math
+\begin{bmatrix}
+1 & 3 \\
+2 & 7
+\end{bmatrix}
+\begin{bmatrix}
+a \\
+b
+\end{bmatrix}
+=
+\begin{bmatrix}
+1 \\
+0
+\end{bmatrix}
+
+```
+
+```math
+\begin{bmatrix}
+1 & 3 \\
+2 & 7
+\end{bmatrix}
+\begin{bmatrix}
+c \\
+d
+\end{bmatrix}
+=
+\begin{bmatrix}
+0 \\
+1
+\end{bmatrix}
+```
+
+### 2.4 Gause-Jordon Elimination
+
+```math
+\begin{matrix}
+
+\underbrace{
+\begin{bmatrix}
+1 & 3 & 1 & 0 \\
+2 & 7 & 0 & 1
+\end{bmatrix}
+}_{A \quad | \quad I}
+
+& \overset{(2,1)}{\Rightarrow} &
+
+\begin{bmatrix}
+1 & 3 & 1 & 0 \\
+0 & 1 & -2 & 1
+\end{bmatrix}
+
+& \overset{\color{red}(1,2)}{\Rightarrow} &
+
+\underbrace{
+\begin{bmatrix}
+1 & 0 & 7 & -3 \\
+0 & 1 & -2 & 1
+\end{bmatrix}
+}_{I \quad | \quad A^{-1}}
+
+\end{matrix}
+```
+
+> What is the difference between Gauss-Jordon and Gauss Elimination?
+* Gauss-Jordon adds upward elimination which substract 3xrow2 from row1.
+> Why $I$ in augmented matrix becomes $A^{-1}$ after Gauss-Jordon?
+* Because the elimination uses rows operation, which left multiply $I$ by some elimination matrices $E$. $EA=I$ tells us that $E=A^{-1}$.
+
+
 
