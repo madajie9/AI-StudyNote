@@ -40,7 +40,36 @@ $P$ is an identity matrix $I$ with reordered rows. $n! = n(n-1) \dots (3)(2)(1)$
 * For any permutation matrix, it is the multiplication of 2-row exchange matrixs: $P=P1P2 \dots P_{n}$, in which $(P_{i})^{T}=(P_{i})^{-1}=P_{i}$
 * $P^{T} = (P_{n})^{T} \dots (P_{2})^{T}(P_{1})^{T}=P_{n} \dots P_{2}P_{1} = (P_{n})^{-1} \dots (P_{2})^{-1}(P_{1})^{-1} = P^{-1} $, proved.
 
-> 
 
 ## 5.2 Transpose
+
+The transpose of $A$ is defined as 
+```math
+A^{T}_{ij} = A_{ji}
+```
+
+Symetric matrix is defined as
+```math
+A_{ij}=A_{ji}
+```
+
+Symetric matrix must be square matrix, but for any matrix $R_{mxn}$, $R^{T}R$ and $RR^{T}$ are symetric because of the rule of transpose $(R^{T}R)^{T}=R^{T}R, (RR^{T})^{T}=RR^{T}$
+
 ## 5.3 Vector Space
+
+### 5.3.1 Examples
+
+> $R^{2}=$ all 2-dim real vectors $=$ "x-y plane"
+> 
+> $R^{3}=$ all 3-dim real vectors $=$ "x-y-z space"
+> 
+> $R^{n}=$ all columne vectors with n real components
+
+### 5.3.2 Not a vector space
+
+Vector space should be **closed** under multiplications and additions of vectors (linear combinations)
+
+If we select only the first quadrant of $R^{2}$, it is not a vector space. Because vector $$\begin{bmatrix}3 \\ 2\end{bmatrix}$$ the multiplication of 
+
+### 5.3.3 Subspace
+
