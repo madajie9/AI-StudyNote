@@ -69,7 +69,42 @@ Symetric matrix must be square matrix, but for any matrix $R_{mxn}$, $R^{T}R$ an
 
 Vector space should be **closed** under multiplications and additions of vectors (linear combinations)
 
-If we select only the first quadrant of $R^{2}$, it is not a vector space. Because vector $$\begin{bmatrix}3 \\ 2\end{bmatrix}$$ the multiplication of 
+If we select only the first quadrant of $\mathbb{R}^{2}$, it is not a vector space. 
+
+For a vector in the first quadrant:
+
+$$
+\begin{bmatrix}
+3 \\ 
+2
+\end{bmatrix}
+$$ 
+
+its scalar multiplication by a negative number (e.g., $c = -1$) results in:
+
+$$
+\begin{bmatrix}
+-3 \\ 
+-2
+\end{bmatrix}
+$$ 
+
+, which is no longer in the **first quadrant**, so the set is not closed under scalar multiplication.
 
 ### 5.3.3 Subspace
+
+Subspace of ${R}^{n}$ is a vector space inside ${R}^{n}$
+
+> ${R}^{2}$ have subspaces:
+* All of ${R}^{2}$
+* All lines through original point (Note, these lines are subspaces of ${R}^{2}$, but not ${R}^{1}$)
+* Zero vector only
+
+> ${R}^{3}$ have subspaces:
+* All of ${R}^{3}$
+* All planes and lines through original point
+* Zero vector only
+
+> How to create subspace?
+* For a matrix $A$, all columns' linear combinations form a subspace, which is called $C(A)$
 
