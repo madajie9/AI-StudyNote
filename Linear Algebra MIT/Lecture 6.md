@@ -175,4 +175,4 @@ for any $c$.
 * Assume $v,w \in N(A)$, then $Av=0, Aw=0$. $A(cv+dw)=cAv+dAw=c0+d0=0$, which means taht $cv+dw \in N(A)$.
 
 > Do the solution of $Ax=b$ give a subspace?
-* No. $b=0$ is special. $A(cv+dw)=cAv+dAw=(c+d)b\neqb$, which means that $v,w \in$ this space could not give $v,w \in$ this space.
+* No. $b=0$ is special. $A(cv+dw)=cAv+dAw=(c+d)b \neq b$ for any $c,d$ if $b \neq 0$, which means that $v,w \in$ this space could not give $v,w \in$ this space.
